@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Graduate";
+  src: local("Graduate"),
+    url("./fonts/Graduate-Regular.ttf") format("truetype");
+  font-weight:normal;
+}
+
+@font-face {
+  font-family: "Ransom";
+  src: local("Ransom"),
+    url("./fonts/Ransom.ttf") format("truetype");
+  font-weight:normal;
+}

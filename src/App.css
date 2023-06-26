@@ -36,3 +36,91 @@
     transform: rotate(360deg);
   }
 }
+
+.font-face-graduate {
+  font-family: "Graduate";
+  font-weight: 900;
+}
+
+.font-face-ransom {
+  font-family: "Ransom";
+  font-weight: normal;
+}
+
+.login-text {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 2px dotted pink;
+}
+
+html {
+  background-color: rgb(252, 218, 223);
+}
+
+img {
+  border: 2px solid palevioletred;
+}
+nav {
+  background-color: pink;    
+}
+
+.login {
+  background-color: hotpink;
+}
+
+#wednesday {
+  margin: 0.5em;
+}
+
+.navbar-brand {
+  padding: 0;
+}
+
+.navbar .navbar-brand img {
+  margin-left: 10px;
+  border-radius: 5px;
+  height: 125px;
+}
+
+#login-button {
+  background-color: rgb(252, 171, 185);
+  border-color: palevioletred;
+  margin: 5px;
+}
+
+#login-button:hover {
+  background-color: rgb(250, 43, 112);
+  border-color: pink;
+  margin: 5px;
+  color: pink;
+}
+
+#password, #username {
+  border-radius: 5px;
+  background-color: rgb(252, 215, 221);
+  border-color: palevioletred;
+}
+
+.nav-link {
+  margin: 10px 10px 10px 10px;
+  border-radius: 5px;
+}
+
+.nav-link:hover {
+  background-color: rgb(250, 43, 112);
+  margin: 10px;
+  border: 1px solid rgb(90, 52, 59);
+  border-radius: 5px;
+  color: pink !important;
+}
+
+.photo {
+  background-color: rgb(252, 215, 221);
+  margin-top: 2em;
+}
+
+.photo img {
+  border-radius: 5px;
+  margin-top: 2em;
+}
+
